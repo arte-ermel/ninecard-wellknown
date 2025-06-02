@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3KTWG4342M.mobi.lab.ninecard"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches all URLs for universal links"
+          }
+        ]
+      }
+    ]
+  }
+}
